@@ -1,6 +1,4 @@
-# Nutrition Tracker Capstone Project
-# By Seth Projain
-
+# Nutrition Tracker Capstone Project By Seth Projain
 A full-stack web application that allows users to log meals, track macros (calories, protein, carbs, fats), and set personalized nutrition goals.
 
 # Tech Stack
@@ -17,9 +15,10 @@ A full-stack web application that allows users to log meals, track macros (calor
 - Macro progress visualization (chart-based)
 
 # Purpose
-This project was developed as a senior capstone to demonstrate full-stack development, database integration, and user-focused design.
+This project was developed to demonstrate full-stack development, database integration, and user-focused design.
 
-# Potential (Not Implemented) 
-- Barcode scanner for food input
-- AI-based meal suggestions
-- Enhanced data visualization
+# Login Page
+![Login](screenshots/login.png)
+
+# Dashboard
+![Dashboard](screenshots/dashboard.png)
