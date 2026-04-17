@@ -16,12 +16,7 @@ A full-stack web application that allows users to log meals, track macros (calor
 - Macro progress visualization (chart-based)
 
 # Purpose
-This project was developed as a senior capstone to demonstrate full-stack development, database integration, and user-focused design.
-
-# Potential (Not Implemented) 
-- Barcode scanner for food input
-- AI-based meal suggestions
-- Enhanced data visualization
+This project was developed to demonstrate full-stack development, database integration, and user-focused design.
 
 # Login Page
 ![Login](screenshots/login.png)
