@@ -1,5 +1,4 @@
-# Nutrition Tracker Capstone Project
-By Seth Projain
+# Nutrition Tracker Capstone Project By Seth Projain
 A full-stack web application that allows users to log meals, track macros (calories, protein, carbs, fats), and set personalized nutrition goals.
 
 # Tech Stack
